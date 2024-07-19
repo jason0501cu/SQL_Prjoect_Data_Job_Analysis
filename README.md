@@ -60,7 +60,7 @@ These insights indicate a balanced demand for both traditional and modern data a
 
 In this section, I will dive into the data to further analyze whether high-demand skills equate to high-paying skills. As mentioned in the Points to Note, since the data for data analysts with listed salaries is very limited, I will look into global data for this part.
 
-### &#8203
+### Comparison on In-Demand Skills
 ![Demanded Skills:Singapore and World](assets/Demanded_skills.png)
 
 The above tables show that the in-demand skills for data analysts in Singapore are quite similar to those in the world. This proves that I have a solid ground to use global data to provide insights on the situation in Singapore.
