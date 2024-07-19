@@ -73,11 +73,11 @@ The chart highlights the top high-paying skills for data analysts, focusing on b
 
 Top Five High-Paying Big Data Skills:
 
-	1.	Spark: Commands the highest salaries, indicating its critical role in big data processing.
-	2.	Databricks: Close second, reflecting its importance in managing and analyzing large datasets.
-	3.	Snowflake: High demand for this data warehousing tool translates to lucrative pay.
-	4.	Hadoop: Essential for big data storage and processing, offering competitive salaries.
-	5.	NoSQL: Valued for handling unstructured data, leading to high compensation.
+1.	Spark: Commands the highest salaries, indicating its critical role in big data processing.
+2.	Databricks: Close second, reflecting its importance in managing and analyzing large datasets.
+3.	Snowflake: High demand for this data warehousing tool translates to lucrative pay.
+4.	Hadoop: Essential for big data storage and processing, offering competitive salaries.
+5.	NoSQL: Valued for handling unstructured data, leading to high compensation.
 
 Insight:
 
@@ -113,5 +113,6 @@ will be an advantage. Apart from the top five optimal skills, these are also amo
 ### (1)
 
 ![High Paying Skills: Singapore](assets/skills_salary_sg.png)
+Even though the data is limited, it is provided for reference.
 
 ### (2) [Click](https://public.tableau.com/views/required_skills_for_data_analyst/top_10_sg?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to see my Viz for this project in tableau public
