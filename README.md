@@ -31,7 +31,7 @@ Check the sql queries made it this analysis : [**SQL Queries**](/project_sql/)
 ### Main Tools Used
 
 * PostgreSQL
-* Tabelau
+* Tableau
 
 ### Points to Note
 
@@ -93,7 +93,7 @@ The chart indicates that Python, R, and Tableau are the top three high-paying sk
 
 ## Conclusion
 
-The [ranking of high-demand skills](#8203) and the [ranking of high-paying skills](#optimal-skills) are quite similar, indicating a high correlation between high demand and high pay.
+The [ranking of high-demand skills](#comparison-on-in-demand-skills) and the [ranking of high-paying skills](#optimal-skills) are quite similar, indicating a high correlation between high demand and high pay.
 
 The top five optimal skills for data analysts are:
 1. Python
