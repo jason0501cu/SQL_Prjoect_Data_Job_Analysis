@@ -60,7 +60,7 @@ These insights indicate a balanced demand for both traditional and modern data a
 
 In this section, I will dive into the data to further analyze whether high-demand skills equate to high-paying skills. As mentioned in the Points to Note, since the data for data analysts with listed salaries is very limited, I will look into global data for this part.
 
-### &zwj
+### &#8203
 ![Demanded Skills:Singapore and World](assets/Demanded_skills.png)
 
 The above tables show that the in-demand skills for data analysts in Singapore are quite similar to those in the world. This proves that I have a solid ground to use global data to provide insights on the situation in Singapore.
@@ -93,7 +93,7 @@ The chart indicates that Python, R, and Tableau are the top three high-paying sk
 
 ## Conclusion
 
-The [ranking of high-demand skills](#zwj) and the [ranking of high-paying skills](#optimal-skills) are quite similar, indicating a high correlation between high demand and high pay.
+The [ranking of high-demand skills](#8203) and the [ranking of high-paying skills](#optimal-skills) are quite similar, indicating a high correlation between high demand and high pay.
 
 The top five optimal skills for data analysts are:
 1. Python
